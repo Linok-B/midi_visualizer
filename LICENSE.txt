@@ -1,0 +1,78 @@
+==============================
+   MIDI VISUALIZER TOOL LICENSE
+==============================
+
+Author: Linok-B
+Project Link: https://github.com/Linok-B/midi_visualizer
+License Version: 1.0
+Last Updated: 2025-08-10
+
+==============================
+     ENGLISH VERSION
+==============================
+
+Custom License – Non-Commercial Use Only
+
+Copyright © Linok-B – All rights reserved.
+
+This software and its output are provided under the following license terms:
+
+1. PERMITTED USE (Non-Commercial)
+You are free to use this software and any visual outputs it generates under the following conditions:
+- The use is for a non-commercial project. This means you cannot earn any money or receive any form of financial compensation from the project where this tool or its output is used.
+- You must provide proper credit to the author as detailed in the attribution section below.
+
+2. PROHIBITED USE (Commercial)
+Commercial use of this software and its output is strictly prohibited. You are not permitted to use this tool or its visual outputs in any project that generates income. This includes, but is not limited to:
+- Monetized videos (e.g., on platforms like YouTube or Vimeo)
+- Paid-for or commercially distributed media
+- Projects funded by advertising revenue
+- Use within applications or software that is sold or includes in-app purchases
+
+There is no option for a commercial license.
+
+3. ATTRIBUTION (Required for All Use)
+You must give credit to the author clearly and visibly in the description of your project, video, or publication.
+
+Please use the following format for attribution:
+
+> Visualizer created with the midi_visualizer tool by Linok-B.
+> Project available at: https://github.com/Linok-B/midi_visualizer
+
+Legal Notice:
+By using this software, you agree to be bound by the terms of this license. Any use of this software or its output that does not comply with these terms, including any unauthorized commercial use, is a breach of this license and may result in legal action.
+
+==============================
+    VERSIÓN EN ESPAÑOL
+==============================
+
+Licencia Personalizada – Solo para Uso No Comercial
+
+Copyright © Linok-B – Todos los derechos reservados.
+
+Este software y sus resultados visuales se ofrecen bajo las siguientes condiciones de licencia:
+
+1. USO PERMITIDO (No Comercial)
+Eres libre de utilizar este software y cualquier resultado visual que genere bajo las siguientes condiciones:
+- El uso debe ser para un proyecto no comercial. Esto significa que no puedes obtener dinero ni ninguna forma de compensación financiera del proyecto donde se utilice esta herramienta o sus resultados.
+- Debes dar crédito adecuado al autor como se detalla en la sección de atribución a continuación.
+
+2. USO PROHIBIDO (Comercial)
+El uso comercial de este software y sus resultados está estrictamente prohibido. No tienes permiso para utilizar esta herramienta o sus resultados visuales en ningún proyecto que genere ingresos. Esto incluye, entre otros:
+- Vídeos monetizados (por ejemplo, en plataformas como YouTube o Vimeo)
+- Medios de pago o distribuidos comercialmente
+- Proyectos financiados mediante ingresos por publicidad
+- Uso en aplicaciones o software que se venda o incluya compras dentro de la aplicación
+
+No existe la opción de obtener una licencia comercial.
+
+3. ATRIBUCIÓN (Obligatoria para todo uso)
+Debes dar crédito al autor de forma clara y visible en la descripción de tu proyecto, vídeo o publicación.
+
+Por favor, utiliza el siguiente formato para la atribución:
+
+> Visualizador creado con la herramienta midi_visualizer de Linok-B.
+> Proyecto disponible en: https://github.com/Linok-B/midi_visualizer
+
+Aviso Legal:
+Al utilizar este software, aceptas cumplir los términos de esta licencia. Cualquier uso de este software o sus resultados que no cumpla con estos términos, incluido cualquier uso comercial no autorizado, constituye una violación de esta licencia y puede dar lugar a acciones legales.
